@@ -26,9 +26,9 @@ And here are some random numbers:
 - Neljäsataa kuusikymmentäyhdeksän
 - Tuhat kaksisataa kolmekymmentäneljä
 
+![numbers table](https://www.langdog.de/bilder/zahlenquadrate.jpg)
 
-
-==Thank you== for reading this website!
+**Thank you** for reading this website!
 
 
 [^1]: English translation: "Seize the day."
