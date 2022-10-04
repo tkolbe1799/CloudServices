@@ -14,7 +14,7 @@ On this website I will use the most important markdown markup features, such as 
 3. Kolme
 4. Neljä
 5. Viisi
-6. Kuusi
+6. ~~Kusi~~ -> Kuusi
 7. Seitsemän
 8. Kahdeksan
 9. Yhdeksän
@@ -26,9 +26,8 @@ And here are some random numbers:
 - Neljäsataa kuusikymmentäyhdeksän
 - Tuhat kaksisataa kolmekymmentäneljä
 
-![numbers table](https://www.langdog.de/bilder/zahlenquadrate.jpg)
+![numbers table](https://www.oamk.fi/images/Akraamo/logot/oamk_pysty.png)
 
-**Thank you** for reading this website!
-
+**Thank you** for reading this website and have a wonderful day! :blush:
 
 [^1]: English translation: "Seize the day."
