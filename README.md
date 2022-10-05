@@ -28,6 +28,6 @@ And here are some random numbers:
 
 ![numbers table](https://www.oamk.fi/images/Akraamo/logot/oamk_pysty.png)
 
-**Thank you** for reading this website and have a wonderful day! :blush:
+**Thank you** for reading this website and have a wonderful day! 😊
 
 [^1]: English translation: "Seize the day."
